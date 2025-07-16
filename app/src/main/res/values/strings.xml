@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipe App</string>
+
+    <!-- Bottom Navigation -->
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="categories">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="new_recipe">New Recipe</string>
+
+    <!-- Home Fragment -->
+    <string name="home_title">Welcome to Recipe App</string>
+    <string name="home_subtitle">Discover delicious recipes</string>
+
+    <!-- Search Fragment -->
+    <string name="search_hint">Search recipes...</string>
+
+    <!-- Categories Fragment -->
+    <string name="categories_title">Recipe Categories</string>
+
+    <!-- Favorites Fragment -->
+    <string name="favorites_title">Favorite Recipes</string>
+
+    <!-- New Recipe Fragment -->
+    <string name="new_recipe_title">Add New Recipe</string>
+    <string name="recipe_name_hint">Recipe name</string>
+    <string name="ingredients_hint">Ingredients (one per line)</string>
+    <string name="instructions_hint">Instructions</string>
+    <string name="save_recipe">Save Recipe</string>
+</resources>
